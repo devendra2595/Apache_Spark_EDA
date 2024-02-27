@@ -1,7 +1,7 @@
 # Apache_Spark_Assigment
 
 - The purpose of this assignment is to get hands on experience of Apache Spark on real world dataset.
-- Deployed 4 node Hadoop cluster using AWS EMR (Elastic Map Reduce) service and configured Apache Spark to run on this cluster.
+- Deployed a 4 node Hadoop cluster using AWS EMR (Elastic Map Reduce) service and configured Apache Spark to run on this cluster.
 - Cluster Configuration:
   - 1 Master node with m4.xlarge instance - 4C/16GB
   - 3 Slave nodes with m4.large instances - 2C/8GB
